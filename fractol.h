@@ -15,8 +15,9 @@
 
 // # include "minilibx_opengl_20191021/mlx.h"
 
-# include "../libft/libft.h"
+# include "libft_2.0/libft.h"
 # include "minilibx-linux/mlx.h"
+# include "minilibx_opengl/mlx.h"
 # include <X11/X.h>
 # include <X11/keysym.h>
 # include <math.h>
